@@ -1,0 +1,16 @@
+name = ("Полиуретан")
+print(len(name))
+a = (4)
+print(type(a))
+b = (6)
+c = (2)
+sum = (a+b)
+diff = (a-b)
+print((sum, + diff))
+mean = ((a+b+c)/3)
+print(mean)
+first = "Вторник"
+second = "Понедельник"
+print(second+',',first)
+f = ((a*b)+(a*c))
+print((f**3)/2)
